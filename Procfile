@@ -1,1 +1,1 @@
-web: gunicorn web scrapping.wsgi
+web: gunicorn web-scrapping-anytime.wsgi
